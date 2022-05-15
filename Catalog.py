@@ -3,13 +3,12 @@
 
 import matplotlib.pyplot as plt
 import numpy as np 
-
 import Data_from_Catalog
 
 
 data=[]
 wrt=open(r'ESSENCEm158(test).txt','w')
-data=Data_from_Catalog.fx() #將原先的資料完全貼到此檔案中 (用raw text 不然會當掉)
+data=Data_from_Catalog.f()  #There are two datas: f and fx 
 
 wl=[]
 flux=[]
