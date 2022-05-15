@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 23 13:04:59 2022
-
-@author: gary6
-"""
 
 
 import matplotlib.pyplot as plt
 import numpy as np 
-#import pylab as plt
+
 import Data_from_Catalog
 
 
@@ -36,5 +31,4 @@ plt.xlim(5500,7000)
 plt.title("ESSENCEm158 (Type Ia)2") 
 plt.xlabel(r"rest wavelengths($\AA$)")
 plt.ylabel(r"relative flux")
-#plt.savefig('ESSENCEm158 (Type Ia)2.pdf')
 plt.show()
