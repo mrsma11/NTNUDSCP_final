@@ -6,8 +6,8 @@ Complete file: DSCP_Final.ipynb
 Full description: DSCP_Final_Project.pdf
 
 Has these components:
--Used Data: Data_from_Catalog.py and ESSENCEm158.json
--Example codes: plot.py and format conversion.py
--.txt files created after running the example codes: ESSENCEm158.txt and ESSENCEm158_from_json.txt (they should be exactly same)
+- Used Data: Data_from_Catalog.py and ESSENCEm158.json
+- Example codes: plot.py and format conversion.py
+- .txt files created after running the example codes: ESSENCEm158.txt and ESSENCEm158_from_json.txt (they should be exactly same)
 
 
