@@ -3,6 +3,7 @@
 Here's a quick summary of all the files has been used in this project. Hopefully this helps you understand what I am doing.
 
 Complete file: DSCP_Final.ipynb
+
 Full description: DSCP_Final_Project.pdf
 
 Has these components:
